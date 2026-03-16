@@ -5,9 +5,11 @@ Python version 3.14.2
 1. Klona repot:
 ```bash```
 git clone <https://github.com/JakobWorkingHard/ML-Gruppuppgift.git>
+
 cd ML-Gruppuppgift
+
 2. Installera nödvändiga bibliotek:
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install -r requirements.txt
 3. Öppna notebooken:
 Final_Report.ipynb
 4. Kör notebooken från början:
