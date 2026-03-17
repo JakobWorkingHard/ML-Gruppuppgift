@@ -49,4 +49,5 @@ Slutligen implementerade vi en Top-X prioriteringsstrategi, där Trust & Safety-
 | Miralem  | Modelljämförelse – baseline, modellträning och cross-validation                                   |
 | Marziyeh | Hyperparameter-optimering – tuning av vald modell                                                 |
 | Katarina | Threshold/prioritering – Top-X strategi och analys av trade-offs                                  |
+| Alla     | Testar new_data och fixar buggar                                                                  |
 | Alla     | Pitch & presentation – sammanställning av resultat, rekommendationer och risker                   |
