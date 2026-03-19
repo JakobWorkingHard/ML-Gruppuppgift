@@ -44,10 +44,11 @@ Slutligen implementerade vi en Top-X prioriteringsstrategi, där Trust & Safety-
 # Ansvarsfördelning
 | Person   | Ansvar                                                                                            |
 | -------- | ------------------------------------------------------------------------------------------------- |
-| Jacob    | Data & EDA – analys av dataset, visualiseringar och insikter                                      |
-| Katarina | Pipeline & preprocessing – hantering av numeriska/kategoriska features och leakage-säker pipeline |
-| Miralem  | Modelljämförelse – baseline, modellträning och cross-validation                                   |
-| Marziyeh | Hyperparameter-optimering – tuning av vald modell                                                 |
-| Katarina | Threshold/prioritering – Top-X strategi och analys av trade-offs                                  |
+| Jacob    | Data & EDA - analys av dataset, visualiseringar och insikter                                      |
+| Katarina | Pipeline & preprocessing - hantering av numeriska/kategoriska features och leakage-säker pipeline |
+| Miralem  | Modelljämförelse - baseline, modellträning och cross-validation                                   |
+| Marziyeh | Hyperparameter-optimering - tuning av vald modell                                                 |
+| Katarina | Threshold/prioritering - Top-X strategi och analys av trade-offs  
+| Irfan    | Risk & Pitch                       |
 | Alla     | Testar new_data och fixar buggar                                                                  |
-| Alla     | Pitch & presentation – sammanställning av resultat, rekommendationer och risker                   |
+| Alla     | Presentation - sammanställning av resultat, rekommendationer                 |
