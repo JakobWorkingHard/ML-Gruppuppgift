@@ -6,9 +6,13 @@ Python version 3.14.2
 ```bash```
 git clone <https://github.com/JakobWorkingHard/ML-Gruppuppgift.git>
 
+- Syfte:
+Projektet styftar till att bygga en beslutsstödsmodell för Trust & Safety-teamet på en marknadsplats-app. 
+Modellen ska prioritera misstänkta annonser och meddelanden för manuell granskning.
+
 cd ML-Gruppuppgift
 
-2. Installera nödvändiga bibliotek:
+2. Installera nödvändiga bibliotek som pandas, numpy, scikit-learn, matplotlib, seaborn, scikit-learn.
 pip install -r requirements.txt
 3. Öppna notebooken:
 Final_Report.ipynb
@@ -23,6 +27,9 @@ Restart & Run All
 - hyperparameter-optimering
 
 # Kravkort
+
+- Stakeholder: Maja, Head of Trust & Safety.
+-Prioritet: Maximera recall (fånga så många misstänkta fall som möjligt).
 
 Top-X prioritering
 **Trust & Safety — “Vi får inte missa de värsta”**
